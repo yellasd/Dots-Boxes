@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/single_player"
+        android:title="@string/single_player"/>
+    <item android:id="@+id/single_hard"
+        android:title="@string/single_hard"/>
+    <item android:id="@+id/two_players"
+        android:title="@string/two_players" />
+    <item android:id="@+id/three_players"
+        android:title="@string/three_players"/>
+</menu>

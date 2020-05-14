@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/players"
+        android:icon="@drawable/people"
+        android:title="@string/players"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/grid_size"
+        android:icon="@drawable/grid"
+        android:title="@string/grid_size"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/replay"
+        android:icon="@drawable/replay"
+        android:title="@string/replay"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/undo"
+        android:icon="@drawable/undo"
+        android:title="@string/undo"
+        android:enabled="true"/>
+</menu>
